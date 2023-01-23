@@ -1,6 +1,6 @@
 # GameDesignNote<br>
-Welcome!This is not a project library but a note.<br>
+Welcome!This is note repository instead of code.<br>
 Including:<br>
-**_GameDesginNode_**<br>
-**_UnityDevelopment_**<br>
-**_GameDisassemble_**<br>
+* **_GameDesginNode_**<br>
+* **_UnityDevelopment_**<br>
+* **_GameDisassemble_**<br>
